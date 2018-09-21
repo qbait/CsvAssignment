@@ -1,0 +1,3 @@
+I changed API significantly and Deprecate the whole class, hope that's not an issue.
+I assumed that it should be simple CSV reader only for 1 line.
+I use Kotlin, Mockito-kotlin and Kluent for Assertion.
